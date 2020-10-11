@@ -4,4 +4,19 @@ title: "Directivos"
 description: Directivos de nuestra institución
 date: 2020-10-11 14:31:20
 ---
-hola
+
+DIRECTOR GENERAL
+Ronald Gutiérrez.
+
+![perfil]({{site.baseurl}}/assets/textures/perfil.jpg)
+
+VICERRECTORA
+Ing. Juanita Suárez.
+
+![vicerrec]({{site.baseurl}}/assets/textures/vicerrec.jpg)
+
+SECRETARIA
+
+Ing. Carla Montez
+
+![secretaria]({{site.baseurl}}/assets/textures/secretaria.jpg)
