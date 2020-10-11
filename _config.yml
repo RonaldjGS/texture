@@ -1,4 +1,4 @@
-title: Escuela Espiritus del saber
+title: Escuela Vientos al conocimiento
 author: Ronald Gutierrez
 email: ronaldgutti2@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -13,7 +13,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Escuela Espiritus del saber
+  title: Escuela Vientos al conocimiento
   tagline: Escuela publica
   date_format: "%b %-d, %Y"
   style: black
