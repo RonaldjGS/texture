@@ -1,32 +1,22 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
-date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Objetivos"
+description: Objetivos de la escuela hacia el publico general.
+date:   2020-10-11 12:35:40 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+OBJETIVO GENERAL
 
-```javascript
-const express = require('express')
-const app = express()
- 
-app.get('/', function (req, res) {
-  res.send('Hello World')
-})
- 
-app.listen(3000)
-```
+Nuestro objetivo es enseñar a nuestros alumnos de una manera que los estudiantes se diviertan y aprendran de la mejor manera publicamente hablando y garantizar que los estudiantes cumplan sus metas.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem excepturi nemo similique atque sapiente aperiam, dolorum deleniti! Esse quam perferendis temporibus nemo at molestias necessitatibus tenetur cupiditate sapiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil et voluptatibus non labore officiis assumenda, distinctio perspiciatis blanditiis nesciunt rerum molestias impedit fugiat nulla qui libero minima quasi! Libero, iure.
 
-```scss
-body {
-	font-family: 'Nunito Sans', sans-serif;
-	line-height: 1.5em;
-	margin: 0;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
+OBJETIVO ESPECIFICO
+
+* Brindar diversas estrategias educativas para que los estudiantes puedan continuar con la escolaridad cuando se presentan situaciones de riesgos.
+
+* Fortalezer el vinculo entre los estudiantes, sus familias y los directivos y profesos de la institución.
+
+* Acompañar a los joves y adolescentes que frente una vulnerabilidad social que ponen en riesgo su escolaridad.
+
+* Incluir a la familias en el proceso de enseñanza-aprendizaje de los estudiantes bajo proyecto de trayectorias diferenciadas.
+
+![mafalda4]({{site.baseurl}}/assets/textures/mafalda4.png)
