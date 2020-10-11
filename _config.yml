@@ -22,8 +22,8 @@ texture:
 
   # generate social links in footer
   social_links:
-     https://twitter.com/ronald55137268
-     https://github.com/RonaldjGS
+    twitter: /ronald55137268
+    github: /github.com/RonaldjGS
     #rss: rss
  
 
