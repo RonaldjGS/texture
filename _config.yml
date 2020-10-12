@@ -2,7 +2,7 @@ title: Escuela Vientos al conocimiento
 author: Ronald Gutierrez
 email: ronaldgutti2@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Escuela para niños y jovenes que deseen cumplir sus metas y sueños para sr un gran profesional
+  Escuela para niños y jovenes que deseen cumplir sus metas y sueños para ser un gran profesional
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
@@ -26,6 +26,9 @@ texture:
     github: /RonaldjGS
     facebook: /profile.php?id=100056271940033
     #rss: rss
+    
+    ![club-penguin-dance]({{site.baseurl}}/assets/textures/club-penguin-dance.mp4)
+
  
 
 # If you want to link only specific pages in your header, uncomment
