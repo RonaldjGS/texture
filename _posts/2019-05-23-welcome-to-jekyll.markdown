@@ -9,6 +9,8 @@ Somos una Escuela publica con el fin de hacer que nuestros estudiantes llegen a 
 
 ![vientos]({{site.baseurl}}/assets/textures/vientos.jpg)
 
+![club-penguin-dance]({{site.baseurl}}/assets/textures/club-penguin-dance.mp4)
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
