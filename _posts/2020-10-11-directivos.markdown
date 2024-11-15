@@ -8,9 +8,9 @@ date: 2020-10-11 14:31:20
 DIRECTOR GENERAL
 
 
-Ronald Gutiérrez.
+Ing. Franco Mendez.
 
-![perfil]({{site.baseurl}}assets/textures/director.jpg)
+![director]({{site.baseurl}}assets/textures/director.jpg)
 
 VICERRECTORA
 
