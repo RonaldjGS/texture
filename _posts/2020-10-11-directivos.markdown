@@ -10,7 +10,7 @@ DIRECTOR GENERAL
 
 Ing. Franco Mendez.
 
-![director]({{site.baseurl}}assets/textures/director.jpg)
+![director]({{site.baseurl}}/assets/textures/director.jpg)
 
 VICERRECTORA
 
