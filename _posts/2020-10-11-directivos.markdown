@@ -10,7 +10,7 @@ DIRECTOR GENERAL
 
 Ronald Gutiérrez.
 
-![perfil]({{site.baseurl}}/assets/textures/perfil.jpg)
+![perfil]({{site.baseurl}}assets/textures/director.jpg)
 
 VICERRECTORA
 
